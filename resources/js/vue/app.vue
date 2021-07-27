@@ -21,4 +21,12 @@ export default {
   width: 300px;
   margin: auto;
 }
+.heading {
+  background-color: #e6e6e6;
+  padding: 10px;
+}
+#title {
+  text-align: center;
+  
+}
 </style>
